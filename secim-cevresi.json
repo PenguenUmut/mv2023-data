@@ -1,0 +1,437 @@
+[
+  {
+    "il_kodu": 1,
+    "cevre_adi": "ADANA",
+    "mv_sayisi": 15
+  },
+  {
+    "il_kodu": 2,
+    "cevre_adi": "ADIYAMAN",
+    "mv_sayisi": 5
+  },
+  {
+    "il_kodu": 3,
+    "cevre_adi": "AFYONKARAHİSAR",
+    "mv_sayisi": 6
+  },
+  {
+    "il_kodu": 4,
+    "cevre_adi": "AĞRI",
+    "mv_sayisi": 4
+  },
+  {
+    "il_kodu": 5,
+    "cevre_adi": "AMASYA",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 6,
+    "cevre_adi": "ANKARA-1",
+    "mv_sayisi": 13
+  },
+  {
+    "il_kodu": 6,
+    "cevre_adi": "ANKARA-2",
+    "mv_sayisi": 11
+  },
+  {
+    "il_kodu": 6,
+    "cevre_adi": "ANKARA-3",
+    "mv_sayisi": 12
+  },
+  {
+    "il_kodu": 7,
+    "cevre_adi": "ANTALYA",
+    "mv_sayisi": 17
+  },
+  {
+    "il_kodu": 8,
+    "cevre_adi": "ARTVİN",
+    "mv_sayisi": 2
+  },
+  {
+    "il_kodu": 9,
+    "cevre_adi": "AYDIN",
+    "mv_sayisi": 8
+  },
+  {
+    "il_kodu": 10,
+    "cevre_adi": "BALIKESİR",
+    "mv_sayisi": 9
+  },
+  {
+    "il_kodu": 11,
+    "cevre_adi": "BİLECİK",
+    "mv_sayisi": 2
+  },
+  {
+    "il_kodu": 12,
+    "cevre_adi": "BİNGÖL",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 13,
+    "cevre_adi": "BİTLİS",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 14,
+    "cevre_adi": "BOLU",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 15,
+    "cevre_adi": "BURDUR",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 16,
+    "cevre_adi": "BURSA-1",
+    "mv_sayisi": 10
+  },
+  {
+    "il_kodu": 16,
+    "cevre_adi": "BURSA-2",
+    "mv_sayisi": 10
+  },
+  {
+    "il_kodu": 17,
+    "cevre_adi": "ÇANAKKALE",
+    "mv_sayisi": 4
+  },
+  {
+    "il_kodu": 18,
+    "cevre_adi": "ÇANKIRI",
+    "mv_sayisi": 2
+  },
+  {
+    "il_kodu": 19,
+    "cevre_adi": "ÇORUM",
+    "mv_sayisi": 4
+  },
+  {
+    "il_kodu": 20,
+    "cevre_adi": "DENİZLİ",
+    "mv_sayisi": 7
+  },
+  {
+    "il_kodu": 21,
+    "cevre_adi": "DİYARBAKIR",
+    "mv_sayisi": 12
+  },
+  {
+    "il_kodu": 22,
+    "cevre_adi": "EDİRNE",
+    "mv_sayisi": 4
+  },
+  {
+    "il_kodu": 23,
+    "cevre_adi": "ELAZIĞ",
+    "mv_sayisi": 5
+  },
+  {
+    "il_kodu": 24,
+    "cevre_adi": "ERZİNCAN",
+    "mv_sayisi": 2
+  },
+  {
+    "il_kodu": 25,
+    "cevre_adi": "ERZURUM",
+    "mv_sayisi": 6
+  },
+  {
+    "il_kodu": 26,
+    "cevre_adi": "ESKİŞEHİR",
+    "mv_sayisi": 6
+  },
+  {
+    "il_kodu": 27,
+    "cevre_adi": "GAZİANTEP",
+    "mv_sayisi": 14
+  },
+  {
+    "il_kodu": 28,
+    "cevre_adi": "GİRESUN",
+    "mv_sayisi": 4
+  },
+  {
+    "il_kodu": 29,
+    "cevre_adi": "GÜMÜŞHANE",
+    "mv_sayisi": 2
+  },
+  {
+    "il_kodu": 30,
+    "cevre_adi": "HAKKARİ",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 31,
+    "cevre_adi": "HATAY",
+    "mv_sayisi": 11
+  },
+  {
+    "il_kodu": 32,
+    "cevre_adi": "ISPARTA",
+    "mv_sayisi": 4
+  },
+  {
+    "il_kodu": 33,
+    "cevre_adi": "MERSİN",
+    "mv_sayisi": 13
+  },
+  {
+    "il_kodu": 34,
+    "cevre_adi": "İSTANBUL-1",
+    "mv_sayisi": 35
+  },
+  {
+    "il_kodu": 34,
+    "cevre_adi": "İSTANBUL-2",
+    "mv_sayisi": 27
+  },
+  {
+    "il_kodu": 34,
+    "cevre_adi": "İSTANBUL-3",
+    "mv_sayisi": 36
+  },
+  {
+    "il_kodu": 35,
+    "cevre_adi": "İZMİR-1",
+    "mv_sayisi": 14
+  },
+  {
+    "il_kodu": 35,
+    "cevre_adi": "İZMİR-2",
+    "mv_sayisi": 14
+  },
+  {
+    "il_kodu": 36,
+    "cevre_adi": "KARS",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 37,
+    "cevre_adi": "KASTAMONU",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 38,
+    "cevre_adi": "KAYSERİ",
+    "mv_sayisi": 10
+  },
+  {
+    "il_kodu": 39,
+    "cevre_adi": "KIRKLARELİ",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 40,
+    "cevre_adi": "KIRŞEHİR",
+    "mv_sayisi": 2
+  },
+  {
+    "il_kodu": 41,
+    "cevre_adi": "KOCAELİ",
+    "mv_sayisi": 14
+  },
+  {
+    "il_kodu": 42,
+    "cevre_adi": "KONYA",
+    "mv_sayisi": 15
+  },
+  {
+    "il_kodu": 43,
+    "cevre_adi": "KÜTAHYA",
+    "mv_sayisi": 5
+  },
+  {
+    "il_kodu": 44,
+    "cevre_adi": "MALATYA",
+    "mv_sayisi": 6
+  },
+  {
+    "il_kodu": 45,
+    "cevre_adi": "MANİSA",
+    "mv_sayisi": 10
+  },
+  {
+    "il_kodu": 46,
+    "cevre_adi": "KAHRAMANMARAŞ",
+    "mv_sayisi": 8
+  },
+  {
+    "il_kodu": 47,
+    "cevre_adi": "MARDİN",
+    "mv_sayisi": 6
+  },
+  {
+    "il_kodu": 48,
+    "cevre_adi": "MUĞLA",
+    "mv_sayisi": 7
+  },
+  {
+    "il_kodu": 49,
+    "cevre_adi": "MUŞ",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 50,
+    "cevre_adi": "NEVŞEHİR",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 51,
+    "cevre_adi": "NİĞDE",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 52,
+    "cevre_adi": "ORDU",
+    "mv_sayisi": 6
+  },
+  {
+    "il_kodu": 53,
+    "cevre_adi": "RİZE",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 54,
+    "cevre_adi": "SAKARYA",
+    "mv_sayisi": 8
+  },
+  {
+    "il_kodu": 55,
+    "cevre_adi": "SAMSUN",
+    "mv_sayisi": 9
+  },
+  {
+    "il_kodu": 56,
+    "cevre_adi": "SİİRT",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 57,
+    "cevre_adi": "SİNOP",
+    "mv_sayisi": 2
+  },
+  {
+    "il_kodu": 58,
+    "cevre_adi": "SİVAS",
+    "mv_sayisi": 5
+  },
+  {
+    "il_kodu": 59,
+    "cevre_adi": "TEKİRDAĞ",
+    "mv_sayisi": 8
+  },
+  {
+    "il_kodu": 60,
+    "cevre_adi": "TOKAT",
+    "mv_sayisi": 5
+  },
+  {
+    "il_kodu": 61,
+    "cevre_adi": "TRABZON",
+    "mv_sayisi": 6
+  },
+  {
+    "il_kodu": 62,
+    "cevre_adi": "TUNCELİ",
+    "mv_sayisi": 1
+  },
+  {
+    "il_kodu": 63,
+    "cevre_adi": "ŞANLIURFA",
+    "mv_sayisi": 14
+  },
+  {
+    "il_kodu": 64,
+    "cevre_adi": "UŞAK",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 65,
+    "cevre_adi": "VAN",
+    "mv_sayisi": 8
+  },
+  {
+    "il_kodu": 66,
+    "cevre_adi": "YOZGAT",
+    "mv_sayisi": 4
+  },
+  {
+    "il_kodu": 67,
+    "cevre_adi": "ZONGULDAK",
+    "mv_sayisi": 5
+  },
+  {
+    "il_kodu": 68,
+    "cevre_adi": "AKSARAY",
+    "mv_sayisi": 4
+  },
+  {
+    "il_kodu": 69,
+    "cevre_adi": "BAYBURT",
+    "mv_sayisi": 1
+  },
+  {
+    "il_kodu": 70,
+    "cevre_adi": "KARAMAN",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 71,
+    "cevre_adi": "KIRIKKALE",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 72,
+    "cevre_adi": "BATMAN",
+    "mv_sayisi": 5
+  },
+  {
+    "il_kodu": 73,
+    "cevre_adi": "ŞIRNAK",
+    "mv_sayisi": 4
+  },
+  {
+    "il_kodu": 74,
+    "cevre_adi": "BARTIN",
+    "mv_sayisi": 2
+  },
+  {
+    "il_kodu": 75,
+    "cevre_adi": "ARDAHAN",
+    "mv_sayisi": 2
+  },
+  {
+    "il_kodu": 76,
+    "cevre_adi": "IĞDIR",
+    "mv_sayisi": 2
+  },
+  {
+    "il_kodu": 77,
+    "cevre_adi": "YALOVA",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 78,
+    "cevre_adi": "KARABÜK",
+    "mv_sayisi": 3
+  },
+  {
+    "il_kodu": 79,
+    "cevre_adi": "KİLİS",
+    "mv_sayisi": 2
+  },
+  {
+    "il_kodu": 80,
+    "cevre_adi": "OSMANİYE",
+    "mv_sayisi": 4
+  },
+  {
+    "il_kodu": 81,
+    "cevre_adi": "DÜZCE",
+    "mv_sayisi": 3
+  }
+]
